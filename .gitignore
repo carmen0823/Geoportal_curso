@@ -1,0 +1,8 @@
+geoportal\
+.env
+_pychache_/
+
+db.sqlite3
+
+media/
+staticfiles/
